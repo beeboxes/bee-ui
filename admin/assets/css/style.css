@@ -13877,8 +13877,8 @@ body.rtl.sidebar-collapse .footer {
 }
 
 .dropdown-toggle .caret:before {
-    content: '\e928';
-    font-family: 'feather';
+    content: '\f078';
+    font-family: FontAwesome;
     -webkit-font-feature-settings: 'liga';
     font-feature-settings: 'liga';
     vertical-align: middle;
@@ -14079,8 +14079,8 @@ body.rtl .user-avatar-list a.more-link {
 }
 
 .star-ratings span::before, .star-ratings:before {
-    content: '\e9bf\e9bf\e9bf\e9bf\e9bf';
-    font-family: 'feather';
+    content: '\f006\f006\f006\f006\f006';
+    font-family: FontAwesome;
     color: #1976d2;
 }
 
@@ -22919,8 +22919,8 @@ Accordions
 }
 
 .accordion .card .card-header a:after {
-    content: "\e92b";
-    font-family: "feather";
+    content: "\f077";
+    font-family: FontAwesome;
     font-size: 1.125rem;
     position: absolute;
     top: 50%;
@@ -23513,7 +23513,7 @@ label {
     top: 50%;
     left: 0;
     content: "";
-    font-family: "feather";
+    font-family: FontAwesome;
     -webkit-font-feature-settings: 'liga';
     font-feature-settings: 'liga';
     font-size: 0.875rem;
@@ -24966,7 +24966,7 @@ body.rtl .select2-container--default .select2-selection--single .select2-selecti
 }
 
 .bootstrap-select .dropdown-menu li a span::before {
-    font-family: "feather";
+    font-family: FontAwesome;
     -webkit-font-feature-settings: "liga";
     font-feature-settings: "liga";
     font-size: 1.125rem;
@@ -25021,8 +25021,8 @@ body.rtl .select2-container--default .select2-selection--single .select2-selecti
 }
 
 .bootstrap-tagsinput .tag [data-role="remove"]::after {
-    content: "\e9ea";
-    font-family: "feather";
+    content: "\f235";
+    font-family: FontAwesome;
     -webkit-font-feature-settings: "liga";
     font-feature-settings: "liga";
     line-height: 1;
@@ -25672,8 +25672,8 @@ body.rtl .pagination .page-item:first-child .page-link {
 }
 
 .custom-fullcalendar .fc-toolbar .fc-next-button::after {
-    content: '\e92a';
-    font-family: 'feather';
+    content: '\f054';
+    font-family: FontAwesome;
     font-size: 1.42857em;
     position: absolute;
     top: 50%;
@@ -25684,9 +25684,9 @@ body.rtl .pagination .page-item:first-child .page-link {
 }
 
 .custom-fullcalendar .fc-toolbar .fc-prev-button::after {
-    content: '\e929';
+    content: '\f053';
     font-size: 1.42857em;
-    font-family: 'feather';
+    font-family: FontAwesome;
     position: absolute;
     top: 50%;
     right: 50%;
@@ -28736,8 +28736,8 @@ Pricing Table
 }
 
 .pricing-box header .triangle-top-right::before {
-    content: "\e9bf";
-    font-family: "feather";
+    content: "\f006";
+    font-family: FontAwesome;
     color: #fff;
     font-size: 1.42857em;
     position: absolute;
@@ -29289,8 +29289,8 @@ Icon Box
 }
 
 .mejs__overlay-button:before {
-    content: '\e99e';
-    font-family: 'feather';
+    content: '\f01d';
+    font-family: FontAwesome;
     font-size: 3.75rem;
     line-height: 3.75rem;
 }
@@ -31145,8 +31145,8 @@ body.rtl .breadcrumb {
 }
 
 .widget-graph-info .arrow-icon:after {
-    font-family: 'feather';
-    content: '\e931';
+    font-family: FontAwesome;
+    content: '\f10c';
     position: absolute;
     top: 50%;
     right: 50%;
@@ -32982,8 +32982,8 @@ body.rtl .side-menu > li > a i.list-icon {
 }
 
 .side-menu .menu-item-has-children > a::after {
-    font-family: 'feather';
-    content: "\e99f";
+    font-family: FontAwesome;
+    content: "\f067";
     position: absolute;
     right: 1.5625rem;
     top: 50%;
@@ -32999,7 +32999,7 @@ body.rtl .side-menu .menu-item-has-children > a::after {
 }
 
 .side-menu .menu-item-has-children.active > a::after {
-    content: "\e984";
+    content: "\f068";
 }
 
 body.rtl.sidebar-collapse .side-menu > li > a {
